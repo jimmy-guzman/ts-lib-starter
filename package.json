@@ -56,7 +56,7 @@
     "gitzy": "4.0.0",
     "husky": "8.0.3",
     "is-ci": "3.0.1",
-    "lint-staged": "15.1.0",
+    "lint-staged": "15.2.2",
     "prettier": "3.1.0",
     "semantic-release": "22.0.8",
     "tsup": "8.0.1",
