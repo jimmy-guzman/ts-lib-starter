@@ -66,7 +66,7 @@
   "files": [
     "dist"
   ],
-  "packageManager": "pnpm@7.33.5",
+  "packageManager": "pnpm@7.33.7",
   "engines": {
     "node": ">= 18"
   }
