@@ -60,7 +60,7 @@
     "prettier": "3.1.0",
     "semantic-release": "22.0.8",
     "tsup": "8.0.1",
-    "typescript": "5.1.6",
+    "typescript": "5.4.3",
     "vitest": "0.34.6"
   },
   "files": [
